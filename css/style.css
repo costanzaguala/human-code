@@ -12,7 +12,7 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container {
-    max-width: 1000px;
-    margin: 0 auto;
+img {
+    width: 100%;
+    text-align: center;
 }
